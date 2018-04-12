@@ -1,0 +1,15 @@
+{
+    "name": "stoneryancn/blog",
+    "description": "this is a test",
+    "type": "project",
+    "require": {
+        "thinkcmf/thinkcmf": "^5.0"
+    },
+    "license": "mit",
+    "authors": [
+        {
+            "name": "zwx",
+            "email": "178686205@qq.com"
+        }
+    ]
+}
